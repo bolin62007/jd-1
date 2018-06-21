@@ -1,0 +1,701 @@
+Namespace(bday='2017-03-03', btime='00:00:00', good='4390094', password='Super123!', username='18371542519')
+start.....
+timespan:24452
+2017-03-02 17:12:27 sleep 15
+timespan:23552
+2017-03-02 17:27:27 sleep 15
+timespan:22652
+2017-03-02 17:42:27 sleep 15
+timespan:21752
+2017-03-02 17:57:27 sleep 15
+timespan:20852
+2017-03-02 18:12:27 sleep 15
+timespan:19952
+2017-03-02 18:27:27 sleep 15
+timespan:19052
+2017-03-02 18:42:27 sleep 15
+timespan:18152
+2017-03-02 18:57:27 sleep 15
+timespan:17252
+2017-03-02 19:12:27 sleep 15
+timespan:16352
+2017-03-02 19:27:27 sleep 15
+timespan:15452
+2017-03-02 19:42:27 sleep 15
+timespan:14552
+2017-03-02 19:57:27 sleep 15
+timespan:13652
+2017-03-02 20:12:27 sleep 15
+timespan:12752
+2017-03-02 20:27:27 sleep 15
+timespan:11852
+2017-03-02 20:42:27 sleep 15
+timespan:10952
+2017-03-02 20:57:27 sleep 15
+timespan:10052
+2017-03-02 21:12:27 sleep 15
+timespan:9152
+2017-03-02 21:27:27 sleep 15
+timespan:8252
+2017-03-02 21:42:27 sleep 15
+timespan:7352
+2017-03-02 21:57:27 sleep 15
+timespan:6452
+2017-03-02 22:12:27 sleep 15
+timespan:5552
+2017-03-02 22:27:27 sleep 15
+timespan:4652
+2017-03-02 22:42:27 sleep 15
+timespan:3752
+2017-03-02 22:57:27 sleep 15
+timespan:2852
+2017-03-02 23:12:27 sleep 15
+timespan:1952
+2017-03-02 23:27:27 sleep 15
+timespan:1052
+2017-03-02 23:42:27 sleep 1
+timespan:992
+2017-03-02 23:43:27 sleep 1
+timespan:932
+2017-03-02 23:44:27 sleep 1
+timespan:872
+2017-03-02 23:45:27 sleep 1
+timespan:812
+2017-03-02 23:46:27 sleep 1
+timespan:752
+2017-03-02 23:47:27 sleep 1
+timespan:692
+2017-03-02 23:48:27 sleep 1
+timespan:632
+2017-03-02 23:49:27 sleep 1
+timespan:572
+2017-03-02 23:50:27 sleep 1
+timespan:512
+2017-03-02 23:51:27 sleep 1
+timespan:452
+2017-03-02 23:52:27 sleep 1
+timespan:392
+2017-03-02 23:53:27 sleep 1
+timespan:332
+2017-03-02 23:54:27 sleep 1
+timespan:272
+2017-03-02 23:55:27 sleep 1
+timespan:212
+2017-03-02 23:56:27 sleep 1
+timespan:152
+2017-03-02 23:57:27 sleep 1
+timespan:92
+2017-03-02 23:58:27 sleep 1 second
+timespan:91
+2017-03-02 23:58:28 sleep 1 second
+timespan:90
+2017-03-02 23:58:29 sleep 1 second
+timespan:89
+2017-03-02 23:58:30 sleep 1 second
+timespan:88
+2017-03-02 23:58:31 sleep 1 second
+timespan:87
+2017-03-02 23:58:32 sleep 1 second
+timespan:86
+2017-03-02 23:58:33 sleep 1 second
+timespan:85
+2017-03-02 23:58:34 sleep 1 second
+timespan:84
+2017-03-02 23:58:35 sleep 1 second
+timespan:83
+2017-03-02 23:58:36 sleep 1 second
+timespan:82
+2017-03-02 23:58:37 sleep 1 second
+timespan:81
+2017-03-02 23:58:38 sleep 1 second
+timespan:80
+2017-03-02 23:58:39 sleep 1 second
+timespan:78
+2017-03-02 23:58:41 sleep 1 second
+timespan:77
+2017-03-02 23:58:42 sleep 1 second
+timespan:76
+2017-03-02 23:58:43 sleep 1 second
+timespan:75
+2017-03-02 23:58:44 sleep 1 second
+timespan:74
+2017-03-02 23:58:45 sleep 1 second
+timespan:73
+2017-03-02 23:58:46 sleep 1 second
+timespan:72
+2017-03-02 23:58:47 sleep 1 second
+timespan:71
+2017-03-02 23:58:48 sleep 1 second
+timespan:70
+2017-03-02 23:58:49 sleep 1 second
+timespan:69
+2017-03-02 23:58:50 sleep 1 second
+timespan:68
+2017-03-02 23:58:51 sleep 1 second
+timespan:67
+2017-03-02 23:58:52 sleep 1 second
+timespan:66
+2017-03-02 23:58:53 sleep 1 second
+timespan:65
+2017-03-02 23:58:54 sleep 1 second
+timespan:64
+2017-03-02 23:58:55 sleep 1 second
+timespan:63
+2017-03-02 23:58:56 sleep 1 second
+timespan:62
+2017-03-02 23:58:57 sleep 1 second
+timespan:61
+2017-03-02 23:58:58 sleep 1 second
+timespan:60
+2017-03-02 23:58:59 sleep 1 second
+timespan:59
+2017-03-02 23:59:00 sleep 1 second
+timespan:58
+2017-03-02 23:59:01 sleep 1 second
+timespan:57
+2017-03-02 23:59:02 sleep 1 second
+timespan:56
+2017-03-02 23:59:03 sleep 1 second
+timespan:55
+2017-03-02 23:59:04 sleep 1 second
+timespan:54
+2017-03-02 23:59:05 sleep 1 second
+timespan:53
+2017-03-02 23:59:06 sleep 1 second
+timespan:52
+2017-03-02 23:59:07 sleep 1 second
+timespan:51
+2017-03-02 23:59:08 sleep 1 second
+timespan:50
+2017-03-02 23:59:09 sleep 1 second
+timespan:49
+2017-03-02 23:59:10 sleep 1 second
+timespan:48
+2017-03-02 23:59:11 sleep 1 second
+timespan:47
+2017-03-02 23:59:12 sleep 1 second
+timespan:46
+2017-03-02 23:59:13 sleep 1 second
+timespan:45
+2017-03-02 23:59:14 sleep 1 second
+timespan:44
+2017-03-02 23:59:15 sleep 1 second
+timespan:43
+2017-03-02 23:59:16 sleep 1 second
+timespan:42
+2017-03-02 23:59:17 sleep 1 second
+timespan:41
+2017-03-02 23:59:18 sleep 1 second
+timespan:40
+2017-03-02 23:59:19 sleep 1 second
+timespan:39
+2017-03-02 23:59:20 sleep 1 second
+timespan:38
+2017-03-02 23:59:21 sleep 1 second
+timespan:37
+2017-03-02 23:59:22 sleep 1 second
+timespan:36
+2017-03-02 23:59:23 sleep 1 second
+timespan:35
+2017-03-02 23:59:24 sleep 1 second
+timespan:34
+2017-03-02 23:59:25 sleep 1 second
+timespan:33
+2017-03-02 23:59:26 sleep 1 second
+timespan:32
+2017-03-02 23:59:27 sleep 1 second
+timespan:31
+2017-03-02 23:59:28 sleep 1 second
+timespan:30
+2017-03-02 23:59:29 sleep 1 second
+timespan:29
+2017-03-02 23:59:30 sleep 1 second
+timespan:28
+2017-03-02 23:59:31 sleep 1 second
+timespan:27
+2017-03-02 23:59:32 sleep 1 second
+timespan:26
+2017-03-02 23:59:33 sleep 1 second
+timespan:25
+2017-03-02 23:59:34 sleep 1 second
+timespan:24
+2017-03-02 23:59:35 sleep 1 second
+timespan:23
+2017-03-02 23:59:36 sleep 1 second
+timespan:22
+2017-03-02 23:59:37 sleep 1 second
+timespan:21
+2017-03-02 23:59:38 sleep 1 second
+timespan:20
+2017-03-02 23:59:39 sleep 1 second
+timespan:19
+2017-03-02 23:59:40 sleep 1 second
+timespan:18
+2017-03-02 23:59:41 sleep 1 second
+timespan:17
+2017-03-02 23:59:42 sleep 1 second
+timespan:16
+2017-03-02 23:59:43 sleep 1 second
+timespan:15
+2017-03-02 23:59:44 sleep 1 second
+timespan:14
+2017-03-02 23:59:45 sleep 1 second
+timespan:13
+2017-03-02 23:59:46 sleep 1 second
+timespan:12
+2017-03-02 23:59:47 sleep 1 second
+timespan:11
+2017-03-02 23:59:48 sleep 1 second
+timespan:10
+2017-03-02 23:59:49 sleep 1 second
+timespan:9
+2017-03-02 23:59:50 sleep 1 second
+timespan:8
+2017-03-02 23:59:51 sleep 1 second
+timespan:7
+2017-03-02 23:59:52 sleep 1 second
+timespan:6
+reload
+ttttt 0
+timespan:-3
+reload
+ttttt 0
+timespan:-17
+reload
+ttttt 0
+timespan:-24
+reload
+ttttt 0
+timespan:-29
+reload
+ttttt 0
+timespan:-34
+reload
+ttttt 0
+timespan:-39
+reload
+ttttt 0
+timespan:-45
+reload
+ttttt 0
+timespan:-50
+reload
+ttttt 0
+timespan:-57
+reload
+ttttt 0
+timespan:-64
+reload
+ttttt 0
+timespan:-70
+reload
+ttttt 0
+timespan:-76
+reload
+ttttt 0
+timespan:-82
+reload
+ttttt 0
+timespan:-89
+reload
+ttttt 0
+timespan:-96
+reload
+ttttt 0
+timespan:-100
+reload
+ttttt 0
+timespan:-106
+reload
+ttttt 0
+timespan:-113
+reload
+ttttt 0
+timespan:-126
+reload
+ttttt 0
+timespan:-132
+reload
+ttttt 0
+timespan:-139
+reload
+ttttt 0
+timespan:-144
+reload
+ttttt 0
+timespan:-155
+reload
+ttttt 0
+timespan:-164
+reload
+ttttt 0
+timespan:-170
+reload
+ttttt 0
+timespan:-178
+reload
+ttttt 0
+timespan:-189
+reload
+ttttt 0
+timespan:-199
+reload
+ttttt 0
+timespan:-205
+reload
+ttttt 0
+timespan:-211
+reload
+ttttt 0
+timespan:-219
+reload
+ttttt 0
+timespan:-226
+reload
+ttttt 0
+timespan:-233
+reload
+ttttt 0
+timespan:-238
+reload
+ttttt 0
+timespan:-246
+reload
+ttttt 0
+timespan:-254
+reload
+ttttt 0
+timespan:-262
+reload
+ttttt 0
+timespan:-268
+reload
+ttttt 0
+timespan:-274
+reload
+ttttt 0
+timespan:-282
+reload
+ttttt 0
+timespan:-295
+reload
+ttttt 0
+timespan:-301
+reload
+ttttt 0
+timespan:-306
+reload
+ttttt 0
+timespan:-311
+reload
+ttttt 0
+timespan:-316
+reload
+ttttt 0
+timespan:-322
+reload
+ttttt 0
+timespan:-327
+reload
+ttttt 0
+timespan:-332
+reload
+ttttt 0
+timespan:-337
+reload
+ttttt 0
+timespan:-343
+reload
+ttttt 0
+timespan:-348
+reload
+ttttt 0
+timespan:-354
+reload
+ttttt 0
+timespan:-360
+reload
+ttttt 0
+timespan:-366
+reload
+ttttt 0
+timespan:-371
+reload
+ttttt 0
+timespan:-377
+reload
+ttttt 0
+timespan:-381
+reload
+ttttt 0
+timespan:-386
+reload
+ttttt 0
+timespan:-392
+reload
+ttttt 0
+timespan:-397
+reload
+ttttt 0
+timespan:-403
+reload
+ttttt 0
+timespan:-408
+reload
+ttttt 0
+timespan:-413
+reload
+ttttt 0
+timespan:-418
+reload
+ttttt 0
+timespan:-423
+reload
+ttttt 0
+timespan:-427
+reload
+ttttt 0
+timespan:-433
+reload
+ttttt 0
+timespan:-438
+reload
+ttttt 0
+timespan:-443
+reload
+ttttt 0
+timespan:-448
+reload
+ttttt 0
+timespan:-453
+reload
+ttttt 0
+timespan:-459
+reload
+ttttt 0
+timespan:-467
+reload
+ttttt 0
+timespan:-472
+reload
+ttttt 0
+timespan:-477
+reload
+ttttt 0
+timespan:-482
+reload
+ttttt 0
+timespan:-488
+reload
+ttttt 0
+timespan:-494
+reload
+ttttt 0
+timespan:-499
+reload
+ttttt 0
+timespan:-504
+reload
+ttttt 0
+timespan:-510
+reload
+ttttt 0
+timespan:-517
+reload
+ttttt 0
+timespan:-522
+reload
+ttttt 0
+timespan:-528
+reload
+ttttt 0
+timespan:-533
+reload
+ttttt 0
+timespan:-539
+reload
+ttttt 0
+timespan:-545
+reload
+ttttt 0
+timespan:-551
+reload
+ttttt 0
+timespan:-556
+reload
+ttttt 0
+timespan:-560
+reload
+ttttt 0
+timespan:-565
+reload
+ttttt 0
+timespan:-571
+reload
+ttttt 0
+timespan:-577
+reload
+ttttt 0
+timespan:-582
+reload
+ttttt 0
+timespan:-587
+reload
+ttttt 0
+timespan:-592
+reload
+ttttt 0
+timespan:-598
+reload
+ttttt 0
+timespan:-603
+reload
+ttttt 0
+timespan:-608
+reload
+ttttt 0
+timespan:-613
+reload
+ttttt 0
+timespan:-619
+reload
+ttttt 0
+timespan:-624
+reload
+ttttt 0
+timespan:-632
+reload
+ttttt 0
+timespan:-638
+reload
+ttttt 0
+timespan:-644
+reload
+ttttt 0
+timespan:-650
+reload
+ttttt 0
+timespan:-657
+reload
+ttttt 0
+timespan:-664
+reload
+ttttt 0
+timespan:-671
+reload
+ttttt 0
+timespan:-676
+reload
+ttttt 0
+timespan:-683
+reload
+ttttt 0
+timespan:-689
+reload
+ttttt 0
+timespan:-696
+reload
+ttttt 0
+timespan:-701
+reload
+ttttt 0
+timespan:-706
+reload
+ttttt 0
+timespan:-711
+reload
+ttttt 0
+timespan:-716
+reload
+ttttt 0
+timespan:-721
+reload
+ttttt 0
+timespan:-726
+reload
+ttttt 0
+timespan:-731
+reload
+ttttt 0
+timespan:-738
+reload
+ttttt 0
+timespan:-743
+reload
+ttttt 0
+timespan:-748
+reload
+ttttt 0
+timespan:-753
+reload
+ttttt 0
+timespan:-759
+reload
+ttttt 0
+timespan:-764
+reload
+ttttt 0
+timespan:-769
+reload
+ttttt 0
+timespan:-774
+reload
+ttttt 0
+timespan:-779
+reload
+ttttt 0
+timespan:-792
+reload
+ttttt 0
+timespan:-798
+reload
+ttttt 0
+timespan:-809
+reload
+ttttt 0
+timespan:-817
+reload
+ttttt 0
+timespan:-823
+reload
+ttttt 0
+timespan:-828
+reload
+ttttt 0
+timespan:-834
+reload
+ttttt 0
+timespan:-839
+reload
+ttttt 0
+timespan:-846
+reload
+ttttt 0
+timespan:-851
+reload
+ttttt 0
+timespan:-857
+reload
+ttttt 0
+timespan:-861
+reload
+ttttt 0
+timespan:-868
+reload
+ttttt 0
+timespan:-873
+reload
+ttttt 0
+timespan:-878
+reload
+ttttt 0
+timespan:-883
+reload
+ttttt 0
+timespan:-888
+reload
+ttttt 0
+timespan:-894
+reload
+ttttt 0
+timespan:-901
